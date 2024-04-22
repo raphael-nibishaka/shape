@@ -1,2 +1,2 @@
 # shape
-Shaoes in tutle module
+Shapes in turtle module
